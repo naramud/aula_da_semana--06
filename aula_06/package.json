@@ -1,0 +1,16 @@
+{
+  "name": "aula_06",
+  "version": "1.0.0",
+  "description": "aula_06",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Narlene Amud",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

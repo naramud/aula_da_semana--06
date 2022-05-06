@@ -1,0 +1,2 @@
+//Quais métodos HTTP constituem um CRUD?
+//Hoje, a implementação mais comum do estilo arquitetural REST é baseado no protocolo HTTP e, consequentemente, nos verbos do HTTP: POST, GET, PUT e DELETE. É comum desenvolvedores implementarem esses verbos mapeando-os em termos CRUD - Create, Read, Update e Delete (Criar, Ler, Atualizar e Excluir).
